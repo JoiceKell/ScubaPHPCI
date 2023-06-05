@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: joicekelly/ScubaPHP:latest
+          tags: joicekelly/scubaphp:latest
